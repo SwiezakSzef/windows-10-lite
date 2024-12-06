@@ -1,1 +1,1 @@
-# windows-10-lite
+# windows 10 lite
